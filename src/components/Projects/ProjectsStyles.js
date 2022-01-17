@@ -86,6 +86,7 @@ export const UtilityList = styled.ul`
 export const ExternalLinks = styled.a`
   color: #d4c0c0;
   font-size: 1.6rem;
+  font-weight: bold;
   padding: 1rem 1.5rem;
   background: #120e43;
   border-radius: 15px;
